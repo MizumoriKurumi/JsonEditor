@@ -9,6 +9,7 @@
 - 修改属性名称及数据类型
 - 拖拽调整数据顺序
 - 未保存修改提醒
+<img width="898" height="577" alt="image" src="https://github.com/user-attachments/assets/a54669a5-0f15-40b2-b87d-d567bc60625b" />
 
 ## 开发环境
 
