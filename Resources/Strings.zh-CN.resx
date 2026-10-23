@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="ColumnKey" xml:space="preserve"><value>键</value></data>
+  <data name="ColumnValue" xml:space="preserve"><value>值</value></data>
+  <data name="ColumnType" xml:space="preserve"><value>类型</value></data>
+  <data name="IntegerRequired" xml:space="preserve"><value>值必须是整数，不能包含小数点或非数字字符。</value></data>
+  <data name="FloatRequired" xml:space="preserve"><value>值必须是浮点数。</value></data>
+  <data name="BooleanRequired" xml:space="preserve"><value>值必须为 true 或 false。</value></data>
+  <data name="DateRequired" xml:space="preserve"><value>值必须是合法的日期。</value></data>
+  <data name="InvalidValue" xml:space="preserve"><value>输入的值对于类型 {0} 无效。{1}</value></data>
+  <data name="ValidationError" xml:space="preserve"><value>验证错误</value></data>
+  <data name="NewFileTitle" xml:space="preserve"><value>新建 JSON 文件</value></data>
+  <data name="NewFileName" xml:space="preserve"><value>新文件.json</value></data>
+  <data name="Created" xml:space="preserve"><value>已新建: {0}</value></data>
+  <data name="CreateFailed" xml:space="preserve"><value>新建 JSON 文件失败: {0}</value></data>
+  <data name="Error" xml:space="preserve"><value>错误</value></data>
+  <data name="UnsavedChanges" xml:space="preserve"><value>当前文件有未保存的修改，是否保存？</value></data>
+  <data name="Information" xml:space="preserve"><value>提示</value></data>
+  <data name="OpenTitle" xml:space="preserve"><value>选择JSON文件</value></data>
+  <data name="Loaded" xml:space="preserve"><value>已加载: {0}</value></data>
+  <data name="LoadFailed" xml:space="preserve"><value>加载JSON失败: {0}</value></data>
+  <data name="NoFile" xml:space="preserve"><value>没有打开的JSON文件。</value></data>
+  <data name="Saved" xml:space="preserve"><value>已保存: {0}</value></data>
+  <data name="SaveSucceeded" xml:space="preserve"><value>保存成功。</value></data>
+  <data name="Success" xml:space="preserve"><value>成功</value></data>
+  <data name="SaveFailed" xml:space="preserve"><value>保存失败: {0}</value></data>
+  <data name="SaveTitle" xml:space="preserve"><value>保存JSON文件</value></data>
+  <data name="RootNotObject" xml:space="preserve"><value>当前根节点不是对象（Object），暂不支持添加属性。</value></data>
+  <data name="EmptyName" xml:space="preserve"><value>属性名不能为空。</value></data>
+  <data name="DuplicateName" xml:space="preserve"><value>已存在相同属性名。</value></data>
+  <data name="Added" xml:space="preserve"><value>已添加属性: {0}</value></data>
+  <data name="AddFailed" xml:space="preserve"><value>添加属性失败: {0}</value></data>
+  <data name="DragPathInvalid" xml:space="preserve"><value>无法解析拖拽项的路径。</value></data>
+  <data name="SameParentRequired" xml:space="preserve"><value>只能在同一父级对象或同一数组内调整顺序。</value></data>
+  <data name="ParentMissing" xml:space="preserve"><value>无法找到父容器。</value></data>
+  <data name="ParentNotArray" xml:space="preserve"><value>父容器不是数组。</value></data>
+  <data name="SourceIndexInvalid" xml:space="preserve"><value>源数组索引越界。</value></data>
+  <data name="TargetIndexInvalid" xml:space="preserve"><value>目标数组索引越界。</value></data>
+  <data name="ParentNotObject" xml:space="preserve"><value>父容器不是对象。</value></data>
+  <data name="Reordered" xml:space="preserve"><value>已调整顺序</value></data>
+  <data name="ReorderFailed" xml:space="preserve"><value>调整顺序失败: {0}</value></data>
+  <data name="PropertyMissing" xml:space="preserve"><value>属性不存在。</value></data>
+  <data name="PropertyPathInvalid" xml:space="preserve"><value>无法解析当前属性路径。</value></data>
+  <data name="ArrayRenameUnsupported" xml:space="preserve"><value>数组索引不能改名，只能调整顺序。</value></data>
+  <data name="NotObjectProperty" xml:space="preserve"><value>当前项不属于对象属性，无法改名。</value></data>
+  <data name="RenameTargetMissing" xml:space="preserve"><value>找不到要修改的属性。</value></data>
+  <data name="DuplicateSibling" xml:space="preserve"><value>同级对象中已经存在相同属性名。</value></data>
+  <data name="Renamed" xml:space="preserve"><value>已重命名属性: {0} -&gt; {1}</value></data>
+  <data name="RenameFailed" xml:space="preserve"><value>修改属性名失败: {0}</value></data>
+  <data name="RenamePropertyMissing" xml:space="preserve"><value>没有找到需要重命名的属性。</value></data>
+  <data name="InvalidInteger" xml:space="preserve"><value>'{0}' 不是合法的整数。路径: {1}</value></data>
+  <data name="InvalidFloat" xml:space="preserve"><value>'{0}' 不是合法的浮点数。路径: {1}</value></data>
+  <data name="InvalidBoolean" xml:space="preserve"><value>'{0}' 不是合法的布尔值 (true/false)。路径: {1}</value></data>
+  <data name="InvalidDate" xml:space="preserve"><value>'{0}' 不是合法的日期。路径: {1}</value></data>
+  <data name="New" xml:space="preserve"><value>新建</value></data>
+  <data name="Open" xml:space="preserve"><value>打开</value></data>
+  <data name="Save" xml:space="preserve"><value>保存</value></data>
+  <data name="SaveAs" xml:space="preserve"><value>另存为</value></data>
+  <data name="Add" xml:space="preserve"><value>添加数据</value></data>
+  <data name="Exit" xml:space="preserve"><value>退出</value></data>
+  <data name="Ready" xml:space="preserve"><value>就绪</value></data>
+  <data name="AppTitle" xml:space="preserve"><value>JSON 表格编辑器</value></data>
+  <data name="AddTitle" xml:space="preserve"><value>添加属性</value></data>
+  <data name="PropertyName" xml:space="preserve"><value>属性名:</value></data>
+  <data name="ValueLabel" xml:space="preserve"><value>值:</value></data>
+  <data name="OK" xml:space="preserve"><value>确定</value></data>
+  <data name="Cancel" xml:space="preserve"><value>取消</value></data>
+  <data name="RenameTitle" xml:space="preserve"><value>修改属性名</value></data>
+  <data name="FileFilter" xml:space="preserve"><value>JSON文件 (*.json)|*.json|所有文件 (*.*)|*.*</value></data>
+  <data name="Language" xml:space="preserve"><value>语言</value></data>
+  <data name="SettingsSaveFailed" xml:space="preserve"><value>无法保存语言偏好，下次启动可能恢复默认语言。{0}</value></data>
+</root>

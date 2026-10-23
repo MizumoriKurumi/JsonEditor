@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="ColumnKey" xml:space="preserve"><value>Key</value></data>
+  <data name="ColumnValue" xml:space="preserve"><value>Value</value></data>
+  <data name="ColumnType" xml:space="preserve"><value>Type</value></data>
+  <data name="IntegerRequired" xml:space="preserve"><value>The value must be an integer without decimal points or nonnumeric characters.</value></data>
+  <data name="FloatRequired" xml:space="preserve"><value>The value must be a floating-point number.</value></data>
+  <data name="BooleanRequired" xml:space="preserve"><value>The value must be true or false.</value></data>
+  <data name="DateRequired" xml:space="preserve"><value>The value must be a valid date.</value></data>
+  <data name="InvalidValue" xml:space="preserve"><value>The value is invalid for type {0}. {1}</value></data>
+  <data name="ValidationError" xml:space="preserve"><value>Validation error</value></data>
+  <data name="NewFileTitle" xml:space="preserve"><value>New JSON file</value></data>
+  <data name="NewFileName" xml:space="preserve"><value>New file.json</value></data>
+  <data name="Created" xml:space="preserve"><value>Created: {0}</value></data>
+  <data name="CreateFailed" xml:space="preserve"><value>Failed to create JSON file: {0}</value></data>
+  <data name="Error" xml:space="preserve"><value>Error</value></data>
+  <data name="UnsavedChanges" xml:space="preserve"><value>The current file has unsaved changes. Save them?</value></data>
+  <data name="Information" xml:space="preserve"><value>Information</value></data>
+  <data name="OpenTitle" xml:space="preserve"><value>Open JSON file</value></data>
+  <data name="Loaded" xml:space="preserve"><value>Loaded: {0}</value></data>
+  <data name="LoadFailed" xml:space="preserve"><value>Failed to load JSON: {0}</value></data>
+  <data name="NoFile" xml:space="preserve"><value>No JSON file is open.</value></data>
+  <data name="Saved" xml:space="preserve"><value>Saved: {0}</value></data>
+  <data name="SaveSucceeded" xml:space="preserve"><value>File saved successfully.</value></data>
+  <data name="Success" xml:space="preserve"><value>Success</value></data>
+  <data name="SaveFailed" xml:space="preserve"><value>Failed to save: {0}</value></data>
+  <data name="SaveTitle" xml:space="preserve"><value>Save JSON file</value></data>
+  <data name="RootNotObject" xml:space="preserve"><value>Properties can only be added when the root is an object.</value></data>
+  <data name="EmptyName" xml:space="preserve"><value>The property name cannot be empty.</value></data>
+  <data name="DuplicateName" xml:space="preserve"><value>A property with this name already exists.</value></data>
+  <data name="Added" xml:space="preserve"><value>Added property: {0}</value></data>
+  <data name="AddFailed" xml:space="preserve"><value>Failed to add property: {0}</value></data>
+  <data name="DragPathInvalid" xml:space="preserve"><value>Cannot parse the dragged item's path.</value></data>
+  <data name="SameParentRequired" xml:space="preserve"><value>Items can only be reordered within the same object or array.</value></data>
+  <data name="ParentMissing" xml:space="preserve"><value>Cannot find the parent container.</value></data>
+  <data name="ParentNotArray" xml:space="preserve"><value>The parent container is not an array.</value></data>
+  <data name="SourceIndexInvalid" xml:space="preserve"><value>The source array index is out of range.</value></data>
+  <data name="TargetIndexInvalid" xml:space="preserve"><value>The target array index is out of range.</value></data>
+  <data name="ParentNotObject" xml:space="preserve"><value>The parent container is not an object.</value></data>
+  <data name="Reordered" xml:space="preserve"><value>Items reordered</value></data>
+  <data name="ReorderFailed" xml:space="preserve"><value>Failed to reorder: {0}</value></data>
+  <data name="PropertyMissing" xml:space="preserve"><value>The property does not exist.</value></data>
+  <data name="PropertyPathInvalid" xml:space="preserve"><value>Cannot parse the current property path.</value></data>
+  <data name="ArrayRenameUnsupported" xml:space="preserve"><value>Array indices cannot be renamed. They can only be reordered.</value></data>
+  <data name="NotObjectProperty" xml:space="preserve"><value>This item is not an object property and cannot be renamed.</value></data>
+  <data name="RenameTargetMissing" xml:space="preserve"><value>Cannot find the property to modify.</value></data>
+  <data name="DuplicateSibling" xml:space="preserve"><value>A property with this name already exists in the same object.</value></data>
+  <data name="Renamed" xml:space="preserve"><value>Renamed property: {0} -&gt; {1}</value></data>
+  <data name="RenameFailed" xml:space="preserve"><value>Failed to rename property: {0}</value></data>
+  <data name="RenamePropertyMissing" xml:space="preserve"><value>Cannot find the property to rename.</value></data>
+  <data name="InvalidInteger" xml:space="preserve"><value>'{0}' is not a valid integer. Path: {1}</value></data>
+  <data name="InvalidFloat" xml:space="preserve"><value>'{0}' is not a valid floating-point number. Path: {1}</value></data>
+  <data name="InvalidBoolean" xml:space="preserve"><value>'{0}' is not a valid boolean (true/false). Path: {1}</value></data>
+  <data name="InvalidDate" xml:space="preserve"><value>'{0}' is not a valid date. Path: {1}</value></data>
+  <data name="New" xml:space="preserve"><value>New</value></data>
+  <data name="Open" xml:space="preserve"><value>Open</value></data>
+  <data name="Save" xml:space="preserve"><value>Save</value></data>
+  <data name="SaveAs" xml:space="preserve"><value>Save As</value></data>
+  <data name="Add" xml:space="preserve"><value>Add Property</value></data>
+  <data name="Exit" xml:space="preserve"><value>Exit</value></data>
+  <data name="Ready" xml:space="preserve"><value>Ready</value></data>
+  <data name="AppTitle" xml:space="preserve"><value>JSON Table Editor</value></data>
+  <data name="AddTitle" xml:space="preserve"><value>Add Property</value></data>
+  <data name="PropertyName" xml:space="preserve"><value>Name:</value></data>
+  <data name="ValueLabel" xml:space="preserve"><value>Value:</value></data>
+  <data name="OK" xml:space="preserve"><value>OK</value></data>
+  <data name="Cancel" xml:space="preserve"><value>Cancel</value></data>
+  <data name="RenameTitle" xml:space="preserve"><value>Rename Property</value></data>
+  <data name="FileFilter" xml:space="preserve"><value>JSON files (*.json)|*.json|All files (*.*)|*.*</value></data>
+  <data name="Language" xml:space="preserve"><value>Language</value></data>
+  <data name="SettingsSaveFailed" xml:space="preserve"><value>Could not save the language preference. The next launch may use the default language. {0}</value></data>
+</root>
